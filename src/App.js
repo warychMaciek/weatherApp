@@ -3,7 +3,7 @@ import 'weather-icons/css/weather-icons.css';
 import './styles.css';
 import Weather from './Components/Weather';
 
-const apiKey = "ea77ee87e85c0c14b3500ee3c1813c12";
+const apiKey = ""; // api key was hidden, you can get one for you on https://openweathermap.org/
 const api = "https://api.openweathermap.org/data/2.5/weather?";
 
 class App extends React.Component {
